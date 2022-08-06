@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @devpartap
-- 👀 I’m interested in embedded programing, basic code, game development
-- 🌱 I’m currently in highschool
-- 💞️ I’m looking to collaborate anything requires low level programing
+- 👀 I’m interested in making life eaiser through code
+- 🌱 just came out of highschool
+- 💞️ I’m looking to collaborate
 - 📫 How to reach me -> email -> devpartap15@gmail.com, insta -> @dev_partap_
 
 <!---
